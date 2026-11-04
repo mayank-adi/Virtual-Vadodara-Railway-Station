@@ -57,32 +57,6 @@ The browser application has shown approximately **50–70 FPS** in observed use.
 3. Keep an internet connection available if the application loads Three.js from a CDN.
 4. Use the on-screen controls or help panel to explore the scene.
 
-## Suggested Repository Structure
-
-Adjust this structure to match the files actually added to the repository:
-
-```text
-Vadodara-Railway-Station-3D-Model/
-├── README.md
-├── HTML-Version/
-│   ├── index.html
-│   └── assets/
-├── Unity-Project/
-├── Screenshots/
-└── Documentation/
-    └── Project-Report.docx
-```
-
-## Screenshots
-
-Add genuine screenshots of the project to a `Screenshots` folder. For example:
-
-```markdown
-![Station front view](Screenshots/front-view.png)
-![Aerial view](Screenshots/aerial-view.png)
-![Platform view](Screenshots/platform-view.png)
-```
-
 ## Project Information
 
 - **Project Title:** Virtual Vadodara Railway Station: An Interactive 3D Visualization
